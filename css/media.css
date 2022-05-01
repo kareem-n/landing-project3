@@ -1,0 +1,33 @@
+@media (min-width:0px){
+    .services .text {
+    width: 100% !important;
+  }
+  .items {
+    transform: translate(0) !important;
+  }
+}
+
+@media (min-width: 576px) {
+  
+}
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+  .services .text {
+    width: 50% !important;
+  }
+  .items {
+    transform: translateY(-50%) !important ;
+  }
+}
+
+@media (min-width: 1200px) {
+}
+
+@media (min-width: 1400px) {
+  .container {
+    width: 1140px;
+  }
+}
